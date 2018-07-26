@@ -21,7 +21,6 @@
 
             <ImageView
                 android:contentDescription="@string/logo"
-                android:id="@+id/topImage"
                 android:layout_width="match_parent"
                 android:layout_height="210dp"
                 android:src="@drawable/technology"
@@ -314,7 +313,7 @@
                     >
 
                     <TextView
-                        android:id="@+id/adress"
+                        android:id="@+id/address"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/Address"
@@ -327,7 +326,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/locationAvail"
-                        android:layout_below="@id/adress"
+                        android:layout_below="@id/address"
                         android:textSize="14sp"
                         android:textStyle="bold"
                         android:layout_centerHorizontal="true"
