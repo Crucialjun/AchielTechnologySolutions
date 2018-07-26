@@ -1,5 +1,21 @@
 <resources>
     <string name="app_name">Achiel Technology Solutions</string>
     <string name="tag_line">The solution you need, when you need it</string>
+    <string name="landlineNo">020 204 8018</string>
+    <string name="landlineAvail">Available Weekdays from 8am to 5pm</string>
+    <string name="landlineHead">Landline Phone Number</string>
+    <string name="mobileHead">Mobile Phone Number</string>
+    <string name="mobileNo">(+) 254 737 055922 </string>
+    <string name="emailHead">Email Address </string>
+    <string name="email">achieltechnologysolutions@gmail.com </string>
+    <string name="alwaysAvail">Available 24hrs a day, 7 Days a week</string>
+    <string name="location">location</string>
+    <string name="locationAvail">Open Mon - Sat 8am to 5pm</string>
+    <string name="Address">Kitengela, Milele Center - Ground Floor</string>
+    <string name="direction">Directions icon</string>
+    <string name="emailIcon">Email icon</string>
+    <string name="Phone">Phone icon</string>
+    <string name="call">Call icon</string>
+    <string name="logo">Achiel Technology Company Logo</string>
 
 </resources>
