@@ -120,7 +120,8 @@
                         android:textStyle="bold"
                         android:layout_centerHorizontal="true"
                         android:textColor="@android:color/white"
-                        android:layout_marginTop="4dp"/>
+                        android:layout_marginTop="4dp"
+                        android:autoLink="phone"/>
                 </RelativeLayout>
             </LinearLayout>
 
@@ -193,7 +194,8 @@
                         android:textStyle="bold"
                         android:layout_centerHorizontal="true"
                         android:textColor="@android:color/white"
-                        android:layout_marginTop="4dp"/>
+                        android:layout_marginTop="4dp"
+                        android:autoLink="phone"/>
                 </RelativeLayout>
             </LinearLayout>
 
@@ -266,7 +268,8 @@
                         android:textStyle="bold"
                         android:layout_centerHorizontal="true"
                         android:textColor="@android:color/white"
-                        android:layout_marginTop="4dp"/>
+                        android:layout_marginTop="4dp"
+                        android:autoLink="email"/>
                 </RelativeLayout>
             </LinearLayout>
 
@@ -327,8 +330,7 @@
                         android:textStyle="bold"
                         android:layout_centerHorizontal="true"
                         android:textColor="@android:color/white"
-                        android:autoLink="map"
-                        android:textColorLink="#66BB6A"/>
+                        android:autoLink="map"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -339,7 +341,8 @@
                         android:textStyle="bold"
                         android:layout_centerHorizontal="true"
                         android:textColor="@android:color/white"
-                        android:layout_marginTop="4dp"/>
+                        android:layout_marginTop="4dp"
+                        android:autoLink="map" />
                 </RelativeLayout>
             </LinearLayout>
 

@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Achiel Technology Solutions</string>
     <string name="tag_line">The solution you need, when you need it</string>
-    <string name="landlineNo">020 204 8018</string>
+    <string name="landlineNo">(+) 254 020 204 8018</string>
     <string name="landlineAvail">Available Weekdays from 8am to 5pm</string>
     <string name="landlineHead">Landline Phone Number</string>
     <string name="mobileHead">Mobile Phone Number</string>
